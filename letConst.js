@@ -11,3 +11,8 @@ numbers.push(56, 785);
 numbers[2] = 80;
 numbers[0] = 10;
 console.log(numbers);
+
+for (let i = 0; i < numbers.length; i++) {
+    const number = numbers[i];
+    console.log(number);
+}
