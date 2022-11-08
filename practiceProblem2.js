@@ -10,3 +10,4 @@ const friends = () => {
     return newFriends;
 }
 console.log(friends());
+// problem is not solved!
